@@ -50,7 +50,11 @@ closures are inner functions that reach outward to use other functions or elemen
 
 5. Why do we need super() in an extended class?
 
+- super pulls the attributes from the extended parent class
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
+
+
 
 ## Instructions
 
